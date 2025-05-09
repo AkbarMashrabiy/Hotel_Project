@@ -31,6 +31,7 @@ public class Main {
         DB.rooms.add(room5);
         DB.rooms.add(room6);
         DB.rooms.add(room7);
+
     }
 
     static AuthService authService = new AuthService();

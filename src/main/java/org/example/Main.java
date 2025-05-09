@@ -24,6 +24,7 @@ public class Main {
         Room room7 = new Room(UUID.randomUUID(), null, 1, 18, 4, 845000, RoomStatus.FREE);
         DB.rooms.add(room1);
         DB.rooms.add(room2);
+
         DB.rooms.add(room3);
         DB.rooms.add(room4);
 
